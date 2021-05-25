@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luke Miller (@lukelmiller)
-- 👀 I’m interested in so many fields of technology but some, more specifically, are smart home technology, green energy, and smart automation.
+- 👀 I’m interested in many fields of technology but some, more specifically, are smart home technology, green energy, and smart automation.
 - 🌱 I’m currently learning about AI and how we can utilize learning algorithms to upgrade our existing energy grid to make it more efficient.
 - 🎓 I recently graduated from the university of Arkansas and I am on the hunt for a career. I am excited to start my future as a computer scientist and I am ready for whatever the future holds!
 - 📫 You can reach me by emailing me at lukelmiller@icloud.com
